@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484845032227",
+    "project_id": "androidital",
+    "storage_bucket": "androidital.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484845032227:android:43319b57550c3be4213296",
+        "android_client_info": {
+          "package_name": "com.example.teszt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnKD9pQPbMUWzXZhvMauC_p-PGkdGbGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

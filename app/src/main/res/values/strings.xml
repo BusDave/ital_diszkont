@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Italdiszkont</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="registergomb">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Már van fiókja? Katt ide!</string>
+    <string name="birth">Születési dátum(18 ÉV MINIMUM!)</string>
+    <string name="italok">Legkedveltebb italok</string>
+    <string name="vendeg">Bejelentkezés vendégként</string>
+    <string name="signout">Kijelentkezés</string>
+    <string name="bolt">Üdvözlünk Boltunkban!</string>
+    <string name="item_placeholder">leírás</string>
+    <string name="item_info_placeholder">infó a termékről</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="contact_customer_service">Kontakt</string>
+    <string name="call_customer_service">Hívás</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>Campari</item>
+        <item>Corona Extra</item>
+        <item>Heineken</item>
+        <item>Jagermeister</item>
+        <item>Kőbányai</item>
+        <item>Fütyülős</item>
+        <item>Pepsi</item>
+        <item>Sprite</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Erős de finom</item>
+        <item>Ez egyik legjobb sörünk!</item>
+        <item>Minden foci meccs kedvence!</item>
+        <item>A fekete szarvas!</item>
+        <item>Igazi magyar ízek!</item>
+        <item>Jó reggelt!</item>
+        <item>Egy hideg Pepsi sose rossz!</item>
+        <item>Fincsi!</item>
+
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/campari</item>
+        <item>@drawable/corona</item>
+        <item>@drawable/heineken</item>
+        <item>@drawable/images</item>
+        <item>@drawable/kobanyai</item>
+        <item>@drawable/palesz</item>
+        <item>@drawable/pepsi</item>
+        <item>@drawable/sprite</item>
+
+    </array>
+
+    <array name="shopping_item_price">
+        <item>9000 Huf</item>
+        <item>699 Huf</item>
+        <item>700 Huf</item>
+        <item>8490 Huf</item>
+        <item>219 Huf</item>
+        <item>3800 Huf</item>
+        <item>330 Huf</item>
+        <item>330 Huf</item>
+    </array>
+</resources>

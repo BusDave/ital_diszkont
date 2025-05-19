@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_bar"
+        android:title="Search"
+        android:icon="@drawable/baseline_search_24"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        />
+    <item
+        android:id="@+id/cart"
+        android:title="Cart"
+        android:icon="@drawable/baseline_add_shopping_cart_24"
+        app:showAsAction="always"
+        app:actionLayout= "@layout/custom_menu_item"
+
+        />
+    <item
+        android:id="@+id/view_selector"
+        android:title="Nézet"
+        android:icon="@drawable/baseline_calendar_view_month_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/profile_button"
+        android:title="Profil"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="Kijelentkezés"
+        app:showAsAction="never"
+        />
+</menu>
